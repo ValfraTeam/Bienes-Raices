@@ -232,7 +232,7 @@ padding: 2rem;
 .iconos-caracteristicas li{ 
     display: flex;
 }
-@media (min-width: ){
+@media (min-width: 768px){
    .ver-todas{
     display: flex;
     justify-content: flex-end;
